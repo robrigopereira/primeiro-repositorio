@@ -12,7 +12,7 @@
 
 ## 🔖 Layout
 
-Você pode visualizar a demonstração do projeto através [desse link](https://rodrigosipereira.login.github.io).
+Você pode visualizar a demonstração do projeto através [desse link](https://rodrigosipereira.github.io/login).
 
 ## 🚀 Tecnologias
 
