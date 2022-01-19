@@ -32,4 +32,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Projeto feito by Rodrigo Silva :wave: [Perfil Github](https://discordapp.com/invite/gCRAFhc)
+Projeto feito by Rodrigo Silva :wave: [Perfil Github](https://www.github.com/rodrigosipereira)
